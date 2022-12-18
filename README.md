@@ -47,4 +47,6 @@ Example
 
 See `example.js` in the parent repo for details.
 
-To run this file, just run `main.js`
+Running
+-------
+    node main.js
