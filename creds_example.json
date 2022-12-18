@@ -1,0 +1,6 @@
+{
+    "clientId": "PUT_YOUR_INFO_INTO_CLIENTID_AND_PASSWORD",
+    "deviceId": null,
+    "loginType": "password",
+    "password": "AND_THEN_RENAME_IT_TO_'creds.json'"
+}
