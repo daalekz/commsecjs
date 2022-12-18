@@ -37,9 +37,14 @@ anyone wish to add support themselves.
 Installation
 ------------
 
+
     npm install commsec
+
+Update the `creds_example.json` file with your own commsec login details, and then rename the file to `creds.json`.
 
 Example
 -------
 
-See `example.js` for details.
+See `example.js` in the parent repo for details.
+
+To run this file, just run `main.js`
